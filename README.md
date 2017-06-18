@@ -1,6 +1,6 @@
 # Snake
 
-To run the game you need to install the curses library.For linux users, just type in the command line:  
+To run the game you need to install the curses library. For linux users:  
 sudo apt-get install libncurses5-dev libncursesw5-dev
 
 To play: make -> make run -> choose the game mode -> have fun and watch your tail :).
